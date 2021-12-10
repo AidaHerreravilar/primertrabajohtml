@@ -1,0 +1,32 @@
+p{
+  color: brown;
+  font-size: 15px
+
+}
+h1 {
+  color: blue
+}
+h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h3 {
+  font-size: 20px
+}
+h4{
+  font-size: 20px
+}
+h1{
+  font-size: 25 px
+
+}
+.parrafoVerde{
+ color: chartreuse
+ tex-align:justify
+}
+body{
+  background-image: url("img/descarga.jpg");
+background-repeat:no-repeat;
+background-size: 100% 100%; 
+ background-color: coral
+}
+
